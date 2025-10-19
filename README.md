@@ -5,11 +5,8 @@
 </p>
 
 - 👋 Glad to see you! 
-- 📚 I know a little about `C/C++`, `Python` and `JavaScript`.  
+- 📚 I am a senior high school student in Henan, China. I am a little busy and can only connect to the internet once every few weeks.   
 ## 
 ![iamzhz's github stats](https://github-readme-stats.vercel.app/api?username=iamzhz)  
 ## 📖 I use
 ![use](https://skillicons.dev/icons?i=c,cpp,python,javascript,arch,linux,vscode,vim,git,github,markdown)
-## 
-- 📅 I am sorry that I may not know anything on the internet from Monday to Friday. Because I am a student and I will stay at school that time.   
-- 🔗 You can come to here to see when I have time: [https://iamzhz.github.io/when-i-have-time/dist/index.html?data=https://iamzhz.github.io/when-i-have-time/dist/data.json](https://iamzhz.github.io/when-i-have-time/dist/index.html?data=https://iamzhz.github.io/when-i-have-time/dist/data.json)  
